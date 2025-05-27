@@ -30,7 +30,7 @@ public class Main
 		        case 2:
 		            listarUsuarios();
 		            Thread.sleep(2000);
-		            System.out.println("Para continuar aperte enter: ");
+		            System.out.println("Para continuar aperte ente: ");
 		            String esperar = scanner.nextLine();
 		            break;
 		        case 3:
