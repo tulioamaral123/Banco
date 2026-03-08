@@ -32,7 +32,7 @@ const deleteTransacao = async (id) => {
 }
 
 function formatCurrency(value) {
-  return value.toLocaleString('pt-PT', { style: 'currency', currency: 'BRL' })
+  return value.toLocaleString('pt-PT', { style: 'currency', currency: 'EUR' })
 }
 
 function formatDate(date) {
