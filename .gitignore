@@ -1,0 +1,36 @@
+# Yii Framework
+/app/vendor
+/app/frontend/runtime
+/app/backend/runtime
+/app/console/runtime
+/app/frontend/web/assets
+/app/backend/web/assets
+
+# Composer
+composer.phar
+composer.lock
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Docker
+/app/frontend/web/index-test.php
+/app/backend/web/index-test.php
+
+# Logs
+*.log
+
+# Database
+db_data/
