@@ -22,4 +22,5 @@ yarn-error.log
 /.docker
 Dockerfile
 CLAUDE.md
+/.claude
 commit.md
